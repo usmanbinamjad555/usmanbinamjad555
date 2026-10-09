@@ -10,7 +10,7 @@
 I build production web applications end to end: database schema and security model, APIs, integrations, and the front end. Lately most of my work sits where full-stack engineering meets AI: LLM agents with function calling, admin-managed prompt and instruction systems, and ML pipelines.
 
 - 🎓 **BS Computer Science**, COMSATS University Islamabad (2023 – present)
-- 🔭 **Final year project:** **SehatSync**, an AI healthcare platform with disease-risk prediction, triage, speech and a clinical scribe
+- 🔭 Currently building **SehatSync**, an AI-powered healthcare triage & risk prediction platform (final year project)
 - 📫 Open to **software engineering / AI engineering roles**
 
 ### 💼 Experience
@@ -30,6 +30,7 @@ As a freelancer I've delivered 50+ projects for clients worldwide: full-stack we
 
 | Project | What it is | Stack |
 |---|---|---|
+| **SehatSync** · Final year project | AI-powered healthcare triage and risk prediction platform: disease-risk models, symptom triage, speech input and an AI clinical scribe | Python AI service · JavaScript web app |
 | **[MultiMart](https://github.com/usmanbinamjad555/multimart-project)** | Multi-tenant marketplace with per-store data isolation, three role-based portals, Docker + Jenkins CI/CD and a [Selenium test suite](https://github.com/usmanbinamjad555/multimart-tests) | MongoDB · Express · React · Node · Docker · Jenkins |
 | **[MultiMartConnect](https://github.com/usmanbinamjad555/WEB_PROJECT)** | Event-driven TypeScript rewrite of MultiMart: Kafka order events, Redis cache and carts, real-time updates over Socket.IO | TypeScript · Next.js 15 · Express 5 · Redis · Kafka |
 | **ChatGPT Agent Platform** · [live demo](https://chatgpt-agent-demo.vercel.app/demo-site/) | Custom business agent with a no-code Instruction Manager (draft → test → publish), function calling, streaming and a one-line embeddable website widget | Node.js · OpenAI Responses API · Gemini · SSE |
