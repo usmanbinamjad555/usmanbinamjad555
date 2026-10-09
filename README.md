@@ -24,6 +24,10 @@ I build production web applications end to end: database schema and security mod
 
 As a freelancer I've delivered 50+ projects for clients worldwide: full-stack web apps on Next.js and Node.js, LLM integrations and agentic workflows, and cloud deployments on AWS.
 
+### 🏆 Honors & awards
+
+- **Prime Minister's Youth Laptop Award**, Prime Minister's Youth Programme, Government of Pakistan (Dec 2023): awarded for academic merit at COMSATS University Islamabad
+
 ---
 
 ### 🚀 Featured work
