@@ -9,11 +9,20 @@
 
 I build production web applications end to end: database schema and security model, APIs, integrations, and the front end. Lately most of my work sits where full-stack engineering meets AI: LLM agents with function calling, admin-managed prompt and instruction systems, and ML pipelines.
 
-- 🎓 **BS Computer Science**, COMSATS University Islamabad (2023 – present) · CGPA 3.48
-- 🧠 **Machine Learning Intern**, CodeAlpha (2026): end-to-end ML pipelines on financial and medical datasets
-- 💼 **Freelance full-stack developer**: Next.js + Supabase products and custom AI agents for clients
+- 🎓 **BS Computer Science**, COMSATS University Islamabad (2023 – present)
 - 🔭 **Final year project:** **SehatSync**, an AI healthcare platform with disease-risk prediction, triage, speech and a clinical scribe
-- 📫 Open to **software engineering / AI engineering roles and internships**
+- 📫 Open to **software engineering / AI engineering roles**
+
+### 💼 Experience
+
+| Role | Organization | Period |
+|---|---|---|
+| **Freelance Software Engineer** | Fiverr · Self-employed | Apr 2024 – Present |
+| **AI Intern** | QuantumLogics · Remote | Jul 2026 – Sep 2026 |
+| **Web Development Intern** | Arch Technologies · Remote | Jun 2026 – Jul 2026 |
+| **Machine Learning Intern** | CodeAlpha · Remote | Mar 2026 – Apr 2026 |
+
+As a freelancer I've delivered 50+ projects for clients worldwide: full-stack web apps on Next.js and Node.js, LLM integrations and agentic workflows, and cloud deployments on AWS.
 
 ---
 
